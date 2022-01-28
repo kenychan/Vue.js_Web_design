@@ -1,4 +1,3 @@
-# Client-Vorlage für Aufgabe 2 des Programmierprojektes
 
 ## Project setup
 ```
